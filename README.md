@@ -1,5 +1,7 @@
 # Behat Doctrine Fixtures
 
+![Behat Doctrine Fixtures](.github/header.png)
+
 | Version | Build Status | Code Coverage |
 |:---------:|:-------------:|:-----:|
 | `master`| [![CI][master Build Status Image]][master Build Status] | [![Coverage Status][master Code Coverage Image]][master Code Coverage] |
